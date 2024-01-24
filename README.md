@@ -1,6 +1,6 @@
 # LLM Application with Google Gemini Pro and Langchain 🚀
 
-Welcome to the LLM (Language Model) application developed using Google Gemini Pro and Langchain. This application allows you to process and analyze multiple PDF documents using FAISS vector embeddings, all presented in a user-friendly interface built with Streamlit.
+Welcome to the LLM (Language Model) application developed using Google Gemini Pro and Langchain.This is the first time I use Gimini, this application allows you to process and analyze multiple PDF documents using FAISS vector embeddings, all presented in a user-friendly interface built with Streamlit.
 
 ## Prerequisites 🛠️
 
@@ -46,6 +46,8 @@ Feel free to contribute to the project. Fork the repository, make changes, and s
 
 ## Acknowledgments 🙌
 
-- Mention any credits, inspirations, or resources you used in your project.
+ -This project is inspired by the teachings and content provided by [Krishnaik Sir](https://github.com/krishnaik06). A big thanks to him for the valuable insights 
+  and guidance in the field of data science and machine learning.
+
 
 Happy coding! 🎉
