@@ -20,7 +20,7 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-llm-application-repo.git
+    git clone https://github.com/sayakdeepghosh01/gimini-app-multipdfs.git
     cd your-llm-application
     ```
 
