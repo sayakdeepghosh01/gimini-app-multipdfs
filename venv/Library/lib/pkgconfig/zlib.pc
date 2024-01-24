@@ -1,0 +1,13 @@
+prefix=D:/Gimini-App/venv/Library
+exec_prefix=D:/Gimini-App/venv/Library
+libdir=D:/Gimini-App/venv/Library/lib
+sharedlibdir=D:/Gimini-App/venv/Library/lib
+includedir=D:/Gimini-App/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
